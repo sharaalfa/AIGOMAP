@@ -1,0 +1,15 @@
+aigomap/.idea/
+aigomap/build/
+aigomap/classes/*
+aigomap/.gradle/
+aigomap/out/
+aigomap/lib/
+untitled/.idea/
+untitled/
+*.jar
+*.war
+*.ear
+*.class
+*.idea
+*.iml
+￼
